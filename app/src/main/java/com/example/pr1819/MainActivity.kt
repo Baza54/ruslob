@@ -64,7 +64,7 @@ class MainActivity : AppCompatActivity() {
         return true
     }
 
-    override fun onOptionsItemSelected(item: MenuItem): Boolean{
+    /* override fun onOptionsItemSelected(item: MenuItem): Boolean{
         return when (item.itemId) {
             R.id.info -> {
                 Toast.makeText(applicationContext, "For koshka buy milk", Toast.LENGTH_LONG).show()
@@ -73,7 +73,7 @@ class MainActivity : AppCompatActivity() {
 
             else -> super.onOptionsItemSelected(item)
         }
-    }
+    } */
 
 
     override fun onSupportNavigateUp(): Boolean {

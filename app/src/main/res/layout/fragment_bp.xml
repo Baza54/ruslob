@@ -28,16 +28,16 @@
                 android:layout_width="340dp"
                 android:layout_height="match_parent"
                 android:layout_marginLeft="70dp"
-                android:layout_marginTop="20dp"
+                android:layout_marginTop="-280dp"
                 android:background="#FFFFFF"
-                android:src="@drawable/shest" />
+                android:src="@drawable/peshehod" />
 
             <TextView
                 android:id="@+id/textview"
                 android:layout_width="match_parent"
                 android:layout_height="710dp"
                 android:layout_marginLeft="73dp"
-                android:layout_marginTop="-35dp"
+                android:layout_marginTop="-275dp"
                 android:layout_marginRight="30dp"
                 android:layout_marginBottom="0dp"
                 android:inputType="textMultiLine"

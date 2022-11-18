@@ -22,16 +22,16 @@
 
             <ImageView
                 android:id="@+id/icon"
-                android:layout_marginTop="60dp"
+                android:layout_marginTop="40dp"
                 android:layout_width="match_parent"
                 android:layout_height="350dp"
                 android:background="#FFFFFF"
-                android:src="@drawable/pyat" />
+                android:src="@drawable/glavd" />
 
             <TextView
                 android:id="@+id/textview"
                 android:layout_width="match_parent"
-                android:layout_height="700dp"
+                android:layout_height="650dp"
                 android:layout_marginTop="0dp"
                 android:layout_marginBottom="0dp"
                 android:inputType="textMultiLine"

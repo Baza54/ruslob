@@ -24,17 +24,18 @@
 
             <ImageView
                 android:id="@+id/icon"
-                android:layout_width="match_parent"
+                android:layout_width="340dp"
+                android:layout_marginLeft="70dp"
                 android:layout_height="match_parent"
                 android:layout_marginTop="0dp"
                 android:background="#FFFFFF"
-                android:src="@drawable/vtor" />
+                android:src="@drawable/stop" />
 
             <TextView
                 android:id="@+id/textview"
                 android:layout_width="match_parent"
                 android:layout_height="810dp"
-                android:layout_marginLeft="70dp"
+                android:layout_marginLeft="75dp"
                 android:layout_marginTop="-35dp"
                 android:layout_marginRight="30dp"
                 android:layout_marginBottom="0dp"

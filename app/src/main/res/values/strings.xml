@@ -1,21 +1,21 @@
 <resources>
-    <string name="app_name">Справочник компонентов ПК</string>
+    <string name="app_name">Справочник по ПДД</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Справочник по котам и кошкам</string>
+    <string name="nav_header_title">Справочник по ПДД</string>
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Information</string>
     <string name="exit">Exit</string>
 
-    <string name="menu_home">00. Начало</string>
-    <string name="menu_gallery">01. Чем кормить кошку</string>
-    <string name="menu_slideshow">02. Почему коты лучше мужчин</string>
-    <string name="menu_ram">03. Монеты с котами</string>
-    <string name="menu_hdd">04. Этикет котов</string>
-    <string name="menu_gpu">05. Как говорит кот</string>
-    <string name="menu_bp">06. Устав кота</string>
-    <string name="menu_case">07. Законы про котов</string>
+    <string name="menu_home">Введение</string>
+    <string name="menu_gallery">Выезд со двора</string>
+    <string name="menu_slideshow">Движение без остановки запрещено</string>
+    <string name="menu_ram">Двойная сплошная</string>
+    <string name="menu_hdd">Определение велосипеда</string>
+    <string name="menu_gpu">Главная дорога</string>
+    <string name="menu_bp">Пешеходный переход</string>
+    <string name="menu_case">Мотоцикл</string>
     <string name="menu_monitor"> </string>
     <string name="ram">
         Ко́шка (лат. Felis catus) — домашнее животное, одно из наиболее популярных (наряду с собакой) «животных-компаньонов». С точки зрения научной систематики, домашняя кошка — млекопитающее семейства кошачьих отряда хищных. Нередко домашнюю кошку рассматривают как подвид лесной кошки(Felis silvestris)—Felis s. Catu, однако, с точки зрения современной биологической систематики (2017 год), домашняя кошка является отдельным биологическим видом.</string>

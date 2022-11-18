@@ -18,7 +18,7 @@
         android:layout_height="82dp"
         android:contentDescription="@string/nav_header_desc"
         android:paddingTop="@dimen/nav_header_vertical_spacing"
-        app:srcCompat="@drawable/imgcote" />
+        app:srcCompat="@drawable/gibddlogopdd" />
 
     <TextView
         android:layout_width="match_parent"
@@ -26,6 +26,7 @@
         android:paddingTop="@dimen/nav_header_vertical_spacing"
         android:text="@string/nav_header_title"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="#000000"
         android:textSize="16sp" />
 
 </LinearLayout>

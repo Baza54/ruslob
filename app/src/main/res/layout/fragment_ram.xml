@@ -26,17 +26,17 @@
                 android:layout_width="320dp"
                 android:layout_height="match_parent"
                 android:layout_marginLeft="40dp"
-                android:layout_marginTop="50dp"
+                android:layout_marginTop="-200dp"
                 android:layout_marginRight="0dp"
                 android:background="#FFFFFF"
-                android:src="@drawable/trety" />
+                android:src="@drawable/dve" />
 
             <TextView
                 android:id="@+id/textview"
                 android:layout_width="match_parent"
                 android:layout_height="720dp"
                 android:layout_marginLeft="48dp"
-                android:layout_marginTop="-10dp"
+                android:layout_marginTop="-230dp"
                 android:layout_marginRight="35dp"
                 android:layout_marginBottom="0dp"
                 android:inputType="textMultiLine"
